@@ -60,6 +60,8 @@ print(pin_extractor([poem, poem2, poem3]))
 
 ```
 
+---
+
 ## ✔ Notes
 - Works with any number of poems.
 - Core logic:Use the word at position = line number. If not available → use 0.
